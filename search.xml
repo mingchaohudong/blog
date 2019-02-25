@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>博客的选型</title>
+      <link href="/2019/02/22/blog-selection/"/>
+      <url>/2019/02/22/blog-selection/</url>
+      
+        <content type="html"><![CDATA[<p>大家好，关于我们的技术博客的选型，我们最终的选择是<code>Hexo</code>这一款博客框架，技术选型上，我们做了一些对比。</p><p>后端语言框架以<code>WordPress</code>为首，前端语言框架为<code>Hexo</code>为首。</p><table><thead><tr><th>后端语言框架</th><th>前端语言框架</th></tr></thead><tbody><tr><td>后端语言框架依赖于后端语言环境，并且环境复杂，各式各样，并且容易对服务器造成额外对压力，并且后端语言框架一般都有一种”过重的感觉”</td><td>前端语言框架特点之一“小清新，简洁”，只需要静态页面，不会有额外的过多的服务器负担</td></tr></tbody></table><p>前端语言框架，出名的大致有以下几种</p><ol><li><a href="https://hexo.io/zh-cn/" target="_blank" rel="noopener">Hexo</a></li><li><a href="https://jekyllrb.com/" target="_blank" rel="noopener">Jekyll</a></li><li><a href="http://octopress.org/" target="_blank" rel="noopener">Octopress</a></li><li><a href="https://vuepress.vuejs.org/zh/" target="_blank" rel="noopener">Vuepress</a></li></ol><p>Hexo 官网</p><p><img src="/img/blog-selection/hexo.png" alt="Hexo官网"></p><p>Jekyll 官网</p><p><img src="/img/blog-selection/jeklyll.png" alt="Jekyll官网"></p><p>Octopress 官网</p><p><img src="/img/blog-selection/octopress-org.png" alt="Octopress官网"></p><p>Vuepress 官网</p><p><img src="/img/blog-selection/vuepress-org.png" alt="Vuepress官网"></p><h2 id="Hexo-和-Jekyll-的对比"><a href="#Hexo-和-Jekyll-的对比" class="headerlink" title="Hexo 和 Jekyll 的对比"></a>Hexo 和 Jekyll 的对比</h2><table><thead><tr><th>/</th><th>Hexo</th><th>Jekyll</th></tr></thead><tbody><tr><td>文档</td><td>中文文档</td><td>英语文档</td></tr><tr><td>语言</td><td>Javascript</td><td>Ruby</td></tr><tr><td>生成静态站点的速度</td><td>相对快</td><td>随着文档的增加编译速度越来越慢</td></tr><tr><td>插件支持</td><td>相对多</td><td>相对少</td></tr><tr><td>主题支持</td><td>Js开发者多，支持的主题也多</td><td>Ruby语言开发者少，相对难以扩展</td></tr><tr><td>文档迁移</td><td>支持</td><td>支持</td></tr><tr><td>category/tags</td><td>直接标签支持解析</td><td>预定义标签</td></tr><tr><td>上手难度</td><td>简单</td><td>相对复杂</td></tr></tbody></table><p>基于列出的以上的几种对比，我们得出的结论是 <code>Hexo</code> 更加适合现代化博客的特点：<code>易用</code>,<code>简洁</code>,<code>高效</code>,<code>强劲</code>。</p><p>相关连接：</p><ul><li><a href="https://hexo.io/themes/" target="_blank" rel="noopener">Hexo主题选择</a></li><li><a href="http://jekyllthemes.org/" target="_blank" rel="noopener">Jekyll主题选择</a></li></ul>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 博客面世 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
